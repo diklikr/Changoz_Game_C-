@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Changoz_Game.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Changoz_Game.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Changoz_GameEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Changoz_Game">
+      <UniqueIdentifier>{C0411104-FF7D-377B-9C73-7147DF387EC4}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Changoz_Game\Changoz_Game.Build.cs">
+      <Filter>Source\Changoz_Game</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Changoz_Game\Changoz_Game.cpp">
+      <Filter>Source\Changoz_Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Changoz_Game\Changoz_Game.h">
+      <Filter>Source\Changoz_Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Changoz_Game\Changoz_GameCharacter.cpp">
+      <Filter>Source\Changoz_Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Changoz_Game\Changoz_GameCharacter.h">
+      <Filter>Source\Changoz_Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Changoz_Game\Changoz_GameGameMode.cpp">
+      <Filter>Source\Changoz_Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Changoz_Game\Changoz_GameGameMode.h">
+      <Filter>Source\Changoz_Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Changoz_Game\Changoz_GamePickUpComponent.cpp">
+      <Filter>Source\Changoz_Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Changoz_Game\Changoz_GamePickUpComponent.h">
+      <Filter>Source\Changoz_Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Changoz_Game\Changoz_GameProjectile.cpp">
+      <Filter>Source\Changoz_Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Changoz_Game\Changoz_GameProjectile.h">
+      <Filter>Source\Changoz_Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Changoz_Game\Changoz_GameWeaponComponent.cpp">
+      <Filter>Source\Changoz_Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Changoz_Game\Changoz_GameWeaponComponent.h">
+      <Filter>Source\Changoz_Game</Filter>
+    </ClCompile>
+    <Filter Include="Source\Changoz_Game\Private">
+      <UniqueIdentifier>{3212D915-7259-3002-9E62-30A704F00F85}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Changoz_Game\Private\Health.cpp">
+      <Filter>Source\Changoz_Game\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\Changoz_Game\Public">
+      <UniqueIdentifier>{9992C3B1-C61B-3B98-A325-641F46B6BD36}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Changoz_Game\Public\Health.h">
+      <Filter>Source\Changoz_Game\Public</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

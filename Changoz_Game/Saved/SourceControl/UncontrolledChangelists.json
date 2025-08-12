@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Estudiante/Desktop/Changoz_Game_C-/Changoz_Game/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Estudiante/Desktop/Changoz_Game_C-/Changoz_Game/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Estudiante/Desktop/Changoz_Game_C-/Changoz_Game/Content/FirstPersonArms/Character/BP_Character.uasset"
+			]
+		}
+	]
+}

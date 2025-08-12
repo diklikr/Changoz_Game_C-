@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Changoz_Game",
+			"Path": "..\\Source\\Changoz_Game.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Changoz_GameEditor",
+			"Path": "..\\Source\\Changoz_GameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
