@@ -21,13 +21,13 @@ void EmptyLinkFunctionForGeneratedCodeChangoz_Game_init() {}
 				SingletonFuncArray,
 				UE_ARRAY_COUNT(SingletonFuncArray),
 				PKG_CompiledIn | 0x00000000,
-				0x9CBFFC89,
-				0x621F0EBB,
+				0xA4A74F16,
+				0xBB7B45C2,
 				METADATA_PARAMS(0, nullptr)
 			};
 			UECodeGen_Private::ConstructUPackage(Z_Registration_Info_UPackage__Script_Changoz_Game.OuterSingleton, PackageParams);
 		}
 		return Z_Registration_Info_UPackage__Script_Changoz_Game.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_Changoz_Game(Z_Construct_UPackage__Script_Changoz_Game, TEXT("/Script/Changoz_Game"), Z_Registration_Info_UPackage__Script_Changoz_Game, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x9CBFFC89, 0x621F0EBB));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_Changoz_Game(Z_Construct_UPackage__Script_Changoz_Game, TEXT("/Script/Changoz_Game"), Z_Registration_Info_UPackage__Script_Changoz_Game, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xA4A74F16, 0xBB7B45C2));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

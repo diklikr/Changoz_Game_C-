@@ -1,11 +1,11 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\estudiante\\desktop\\changoz_game_c-\\changoz_game\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\changoz_game\\permoduleinline.gen.cpp",
+        "Source": "c:\\users\\inaki\\onedrive\\desktop\\school\\tri 3\\changoz_game_c-\\changoz_game\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\changoz_game\\permoduleinline.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\estudiante\\desktop\\changoz_game_c-\\changoz_game\\intermediate\\build\\win64\\x64\\changoz_gameeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "PCH": "c:\\users\\inaki\\onedrive\\desktop\\school\\tri 3\\changoz_game_c-\\changoz_game\\intermediate\\build\\win64\\x64\\changoz_gameeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
         "Includes": [
-            "c:\\users\\estudiante\\desktop\\changoz_game_c-\\changoz_game\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\changoz_game\\definitions.changoz_game.h",
+            "c:\\users\\inaki\\onedrive\\desktop\\school\\tri 3\\changoz_game_c-\\changoz_game\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\changoz_game\\definitions.changoz_game.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
         ],
         "ImportedModules": [],
