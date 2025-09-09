@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Changoz_GameModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d6005a5f89b212687e6d64b70d468a5e2736ec1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+24cc054737d16a5e044c33e36d911c3e2ceac886")]
 [assembly: System.Reflection.AssemblyProductAttribute("Changoz_GameModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Changoz_GameModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
