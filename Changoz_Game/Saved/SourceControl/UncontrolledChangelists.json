@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Estudiante/Desktop/Changoz_Game_C-/Changoz_Game/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Estudiante/Desktop/Changoz_Game_C-/Changoz_Game/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Estudiante/Desktop/Changoz_Game_C-/Changoz_Game/Content/FirstPersonArms/Character/BP_Character.uasset",
+				"C:/Users/Estudiante/Desktop/Changoz_Game_C-/Changoz_Game/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/O9/1Z6J8C28ACZAJHAVZTL34C.uasset",
+				"C:/Users/Estudiante/Desktop/Changoz_Game_C-/Changoz_Game/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/ZC/ZPH9340NU2V8UWF21CI64I.uasset",
+				"C:/Users/Estudiante/Desktop/Changoz_Game_C-/Changoz_Game/Content/BP_Zombie.uasset",
 				"C:/Users/inaki/OneDrive/Desktop/School/TRI 3/Changoz_Game_C-/Changoz_Game/Content/BP_Zombie.uasset",
 				"C:/Users/inaki/OneDrive/Desktop/School/TRI 3/Changoz_Game_C-/Changoz_Game/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/D7/ZOYUEEN8FRI5QPUAVXO7XR.uasset",
 				"C:/Users/inaki/OneDrive/Desktop/School/TRI 3/Changoz_Game_C-/Changoz_Game/Content/BP_Enemyspawner.uasset",
@@ -27,10 +33,7 @@
 				"C:/Users/inaki/OneDrive/Desktop/School/TRI 3/Changoz_Game_C-/Changoz_Game/Content/FirstPerson/Input/IMC_Default.uasset",
 				"C:/Users/inaki/OneDrive/Desktop/School/TRI 3/Changoz_Game_C-/Changoz_Game/Content/BP_RifleWM.uasset",
 				"C:/Users/inaki/OneDrive/Desktop/School/TRI 3/Changoz_Game_C-/Changoz_Game/Content/FirstPersonArms/Character/Mesh/SK_Mannequin_Arms.uasset",
-				"C:/Users/inaki/OneDrive/Desktop/School/TRI 3/Changoz_Game_C-/Changoz_Game/Content/FirstPersonArms/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset",
-				"C:/Users/Estudiante/Desktop/Changoz_Game_C-/Changoz_Game/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"C:/Users/Estudiante/Desktop/Changoz_Game_C-/Changoz_Game/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
-				"C:/Users/Estudiante/Desktop/Changoz_Game_C-/Changoz_Game/Content/FirstPersonArms/Character/BP_Character.uasset"
+				"C:/Users/inaki/OneDrive/Desktop/School/TRI 3/Changoz_Game_C-/Changoz_Game/Content/FirstPersonArms/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset"
 			]
 		}
 	]

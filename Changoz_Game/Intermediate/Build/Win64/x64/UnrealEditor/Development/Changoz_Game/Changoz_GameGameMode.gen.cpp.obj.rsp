@@ -1,12 +1,12 @@
-"C:\Users\inaki\OneDrive\Desktop\School\TRI 3\Changoz_Game_C-\Changoz_Game\Intermediate\Build\Win64\UnrealEditor\Inc\Changoz_Game\UHT\Changoz_GameGameMode.gen.cpp"
-/FI"C:\Users\inaki\OneDrive\Desktop\School\TRI 3\Changoz_Game_C-\Changoz_Game\Intermediate\Build\Win64\x64\Changoz_GameEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/FI"C:\Users\inaki\OneDrive\Desktop\School\TRI 3\Changoz_Game_C-\Changoz_Game\Intermediate\Build\Win64\x64\UnrealEditor\Development\Changoz_Game\Definitions.Changoz_Game.h"
-/Yu"C:\Users\inaki\OneDrive\Desktop\School\TRI 3\Changoz_Game_C-\Changoz_Game\Intermediate\Build\Win64\x64\Changoz_GameEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/Fp"C:\Users\inaki\OneDrive\Desktop\School\TRI 3\Changoz_Game_C-\Changoz_Game\Intermediate\Build\Win64\x64\Changoz_GameEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
-/Fo"C:\Users\inaki\OneDrive\Desktop\School\TRI 3\Changoz_Game_C-\Changoz_Game\Intermediate\Build\Win64\x64\UnrealEditor\Development\Changoz_Game\Changoz_GameGameMode.gen.cpp.obj"
-/experimental:log "C:\Users\inaki\OneDrive\Desktop\School\TRI 3\Changoz_Game_C-\Changoz_Game\Intermediate\Build\Win64\x64\UnrealEditor\Development\Changoz_Game\Changoz_GameGameMode.gen.cpp.sarif"
-/sourceDependencies "C:\Users\inaki\OneDrive\Desktop\School\TRI 3\Changoz_Game_C-\Changoz_Game\Intermediate\Build\Win64\x64\UnrealEditor\Development\Changoz_Game\Changoz_GameGameMode.gen.cpp.dep.json"
-@"C:\Users\inaki\OneDrive\Desktop\School\TRI 3\Changoz_Game_C-\Changoz_Game\Intermediate\Build\Win64\x64\UnrealEditor\Development\Changoz_Game\Changoz_Game.Shared.rsp"
+"C:\Users\Estudiante\Desktop\Changoz_Game_C-\Changoz_Game\Intermediate\Build\Win64\UnrealEditor\Inc\Changoz_Game\UHT\Changoz_GameGameMode.gen.cpp"
+/FI"C:\Users\Estudiante\Desktop\Changoz_Game_C-\Changoz_Game\Intermediate\Build\Win64\x64\Changoz_GameEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/FI"C:\Users\Estudiante\Desktop\Changoz_Game_C-\Changoz_Game\Intermediate\Build\Win64\x64\UnrealEditor\Development\Changoz_Game\Definitions.Changoz_Game.h"
+/Yu"C:\Users\Estudiante\Desktop\Changoz_Game_C-\Changoz_Game\Intermediate\Build\Win64\x64\Changoz_GameEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/Fp"C:\Users\Estudiante\Desktop\Changoz_Game_C-\Changoz_Game\Intermediate\Build\Win64\x64\Changoz_GameEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
+/Fo"C:\Users\Estudiante\Desktop\Changoz_Game_C-\Changoz_Game\Intermediate\Build\Win64\x64\UnrealEditor\Development\Changoz_Game\Changoz_GameGameMode.gen.cpp.obj"
+/experimental:log "C:\Users\Estudiante\Desktop\Changoz_Game_C-\Changoz_Game\Intermediate\Build\Win64\x64\UnrealEditor\Development\Changoz_Game\Changoz_GameGameMode.gen.cpp.sarif"
+/sourceDependencies "C:\Users\Estudiante\Desktop\Changoz_Game_C-\Changoz_Game\Intermediate\Build\Win64\x64\UnrealEditor\Development\Changoz_Game\Changoz_GameGameMode.gen.cpp.dep.json"
+@"C:\Users\Estudiante\Desktop\Changoz_Game_C-\Changoz_Game\Intermediate\Build\Win64\x64\UnrealEditor\Development\Changoz_Game\Changoz_Game.Shared.rsp"
 /d2ssa-cfg-question-
 /Zc:inline
 /nologo
